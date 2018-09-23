@@ -1,2 +1,2 @@
 # hello-world
-another hello world file 
+ Sup mi perro! this is my first repository EVER, a ver que tranza carranza!
